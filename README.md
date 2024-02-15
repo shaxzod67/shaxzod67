@@ -1,4 +1,4 @@
-<h1>Shaxzod</h1>
+<h1 style="color: red;">Shaxzod</h1>
 <h2>Shaxzod</h2>
 
 
